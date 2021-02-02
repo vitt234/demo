@@ -2,7 +2,7 @@ package com.cjc.demo;
 
 public class DemoProgram {
 
-	public void adddata(String data) {
+	public void adddata(int data) {
 		
 			 System.out.println("data::"+data);
 	}
