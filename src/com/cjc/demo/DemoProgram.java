@@ -13,6 +13,9 @@ public class DemoProgram {
 			 System.out.println("data::"+data);
 	}
 	
+	public void str(){
+	System.out.println("hii  this is change done");
+	}
 	
 	public static void main(String[] args) {
 		
